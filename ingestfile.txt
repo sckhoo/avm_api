@@ -1,0 +1,6 @@
+{"data":"10027a390013002d0020","sigfoxId":"41762D","time":"1599190685","type":"IAQ","seqNumber":"467"}
+{"data":"10027b3800160022001c","sigfoxId":"41762D","time":"1599192457","type":"IAQ","seqNumber":"468"}
+{"data":"10027e36000d00220016","sigfoxId":"41762D","time":"1599194229","type":"IAQ","seqNumber":"469"}
+{"data":"10027c36000b00170010","sigfoxId":"41762D","time":"1599195973","type":"IAQ","seqNumber":"470"}
+{"data":"10027c3500050015000c","sigfoxId":"41762D","time":"1599197744","type":"IAQ","seqNumber":"471"}
+{"data":"10027c3600070011000b","sigfoxId":"41762D","time":"1599199516","type":"IAQ","seqNumber":"472"}
